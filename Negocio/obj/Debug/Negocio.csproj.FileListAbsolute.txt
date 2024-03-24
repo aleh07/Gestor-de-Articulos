@@ -1,0 +1,18 @@
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Negocio\obj\Debug\Negocio.pdb

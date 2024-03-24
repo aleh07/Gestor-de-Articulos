@@ -1,0 +1,12 @@
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Dominio\obj\Debug\Dominio.pdb

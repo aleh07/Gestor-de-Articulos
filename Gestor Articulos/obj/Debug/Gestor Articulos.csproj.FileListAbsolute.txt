@@ -1,0 +1,48 @@
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.exe.config
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.exe
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Articulos.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Categorias.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Marcas.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.NuevaCategoria.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.NuevaImgArt.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.NuevaMarca.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Nuevo_Articulo.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.FrmPrincipal.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Properties.Resources.resources
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.GenerateResource.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.exe
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (5)\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.exe.config
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.exe
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Negocio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Articulos.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Categorias.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Marcas.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.NuevaCategoria.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.NuevaImgArt.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.NuevaMarca.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Nuevo_Articulo.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.FrmPrincipal.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor_Articulos.Properties.Resources.resources
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.GenerateResource.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.csproj.CopyComplete
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.exe
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.pdb
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.exe.manifest
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\bin\Debug\Gestor Articulos.application
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.exe.manifest
+C:\Users\aleh0\OneDrive\Escritorio\RepoEntregado\Tp-WinForm_Equipo10\Gestor Articulos\Gestor Articulos\obj\Debug\Gestor Articulos.application
